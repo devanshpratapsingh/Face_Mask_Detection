@@ -4,5 +4,5 @@ Lately wearing masks has been a really important thing. I've build a simple real
 
 
 <div style="width: 300px; height: 250px; overflow: hidden">
-  <img src="maskgif.gif" width="250" height="250">
+  <img src="maskgif.gif" width="300" height="250">
 </div>
